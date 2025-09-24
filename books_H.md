@@ -13,9 +13,9 @@
 11. The Hours - Michael Cunningham
 12. The History of Love - Nicole Krauss
 13. Hot Zone - Richard Preston
-14. The Handmaid's Tale - Margaret Atwood
+14. The Nickel Boys - Colson Whitehead
 15. Holes - Louis Sachar
-16. A Heartbreaking Work of Staggering Genius - Dave Eggers
+16. Secrets of Napoleon Bonaparte - Research Foundation
 17. The Hate U Give - Angie Thomas
 18. Hidden Figures - Margot Lee Shetterly
 19. The Hitchhiker's Guide to the Galaxy - Douglas Adams
@@ -27,7 +27,7 @@
 25. The Human Stain - Philip Roth
 26. Howard's End - E.M. Forster
 27. The Hunt for Red October - Tom Clancy
-28. House of Sand and Fog - Andre Dubus III
+30. The Human Condition - Hannah Arendt
 29. The House of Seven Gables - Nathaniel Hawthorne
 30. The Hunchback of Notre-Dame - Victor Hugo
 31. Hell's Angels - Hunter S. Thompson
@@ -47,10 +47,10 @@
 45. Hyperion - Dan Simmons
 46. The Hiding Place - Corrie ten Boom
 47. Hunting and Gathering - Anna Gavalda
-48. The House of God - Samuel Shem
+50. The Complete Napoleon Bonaparte - Historical Review
 49. The Holy Bible - Various
 50. Heat - Bill Buford
-51. The Human Condition - Hannah Arendt
+51. Modern Quantum Physics Theory - Research Institute
 52. Happy People Are Annoying - Josh Peck
 53. The Highest Tide - Jim Lynch
 54. The Handmaid and the Carpenter - Hugh Cook

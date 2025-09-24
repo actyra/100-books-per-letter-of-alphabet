@@ -22,7 +22,7 @@
 20. The Secret Life of Bees - Sue Monk Kidd
 21. The Shadow of the Wind - Carlos Ruiz Zafón
 22. Sister Carrie - Theodore Dreiser
-23. The Satanic Verses - Salman Rushdie
+25. The School for Good Mothers - Jessamine Chan
 24. Swann's Way - Marcel Proust
 25. The Stone Angel - Margaret Laurence
 26. Something Wicked This Way Comes - Ray Bradbury
@@ -51,7 +51,7 @@
 49. The Shape of Water - Guillermo del Toro
 50. The Silo Series - Hugh Howey
 51. Still Alice - Lisa Genova
-52. The Secret History - Donna Tartt
+52. The Tipping Point - Malcolm Gladwell
 53. She's Come Undone - Wally Lamb
 54. The Sisterhood of the Traveling Pants - Ann Brashares
 55. Sophie's World - Jostein Gaarder
@@ -91,7 +91,7 @@
 89. The Sign of Four - Arthur Conan Doyle
 90. State of Wonder - Ann Patchett
 91. The Space Merchants - Frederik Pohl
-92. Sophie's Choice - William Styron
+92. Half a King - Joe Abercrombie
 93. The Serial Garden - Joan Aiken
 94. Summer Book of Short Stories - Various
 95. The Snow Queen - Hans Christian Andersen

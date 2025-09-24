@@ -29,7 +29,7 @@
 27. Bel Canto - Ann Patchett
 28. Bleak House - Charles Dickens
 29. The Berlin Stories - Christopher Isherwood
-30. Bless Me, Ultima - Rudolfo Anaya
+32. The Book of Lost Names - Kristin Harmel
 31. The Book of Mormon - Joseph Smith Jr.
 32. Bartleby, the Scrivener - Herman Melville
 33. Bonjour Tristesse - Françoise Sagan

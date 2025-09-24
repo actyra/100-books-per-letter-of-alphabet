@@ -59,7 +59,7 @@
 57. Other Voices, Other Rooms - Truman Capote
 58. The Old Devils - Kingsley Amis
 59. One More Thing - B.J. Novak
-60. The Once and Future King - T.H. White
+60. The Near Witch - V.E. Schwab
 61. Oklahoma! - Various
 62. The Other Einstein - Marie Benedict
 63. Our Kind of Traitor - John le Carré
@@ -74,7 +74,7 @@
 72. Only Revolutions - Mark Z. Danielewski
 73. The Ocean of Churn - Sanjeev Sanyal
 74. On the Road Again - Willie Nelson
-75. The Other Woman - Therese Bohman
+75. Vicious - V.E. Schwab
 76. Olive Kitteridge - Elizabeth Strout
 77. One Shot - Lee Child
 78. The Optimist - Helen Simonson
@@ -98,5 +98,5 @@
 96. The Oracle of Stamboul - Michael David Lukas
 97. On Immunity - Eula Biss
 98. Our America - LeAlan Jones
-99. The Optimist - Helen Simonson
+99. Vengeful - V.E. Schwab
 100. Over and Under the Snow - Kate Messner

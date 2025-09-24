@@ -1,7 +1,7 @@
 # 100 Books Starting with Letter I
 
 1. The Iliad - Homer
-2. In Cold Blood - Truman Capote
+2. Klara and the Sun - Kazuo Ishiguro
 3. The Invisible Man - Ralph Ellison
 4. It - Stephen King
 5. Interview with the Vampire - Anne Rice
@@ -74,13 +74,13 @@
 72. Illuminated - Matt Bronleewe
 73. I'll Take You There - Joyce Carol Oates
 74. The Invention of Everything Else - Samantha Hunt
-75. In Cold Blood - Truman Capote
+75. The Power - Naomi Alderman
 76. The Immortalists - Chloe Benjamin
 77. I Am David - Anne Holm
 78. Into the Beautiful North - Luis Alberto Urrea
 79. Inheritance - Christopher Paolini
 80. I Shall Not Hate - Izzeldin Abuelaish
-81. The Invisible Man - H.G. Wells
+81. The Man in the Brown Suit - Agatha Christie
 82. I Hope They Serve Beer in Hell - Tucker Max
 83. In the Shadow of the Moon - Amy Cherrix
 84. The Imperfectionists - Tom Rachman

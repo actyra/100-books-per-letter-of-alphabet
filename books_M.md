@@ -57,7 +57,7 @@
 55. Moll Flanders - Daniel Defoe
 56. The Minister's Black Veil - Nathaniel Hawthorne
 57. Madeline - Ludwig Bemelmans
-58. The Mouse and the Motorcycle - Beverly Cleary
+60. The Measure - Nikki Erlick
 59. Master Harold and the Boys - Athol Fugard
 60. The Mirror Crack'd - Agatha Christie
 61. The Mahabharata - Vyasa
@@ -68,7 +68,7 @@
 66. The Moon and Sixpence - W. Somerset Maugham
 67. Midnight in the Garden of Good and Evil - John Berendt
 68. The Master - Colm Tóibín
-69. Mansfield Park - Jane Austen
+69. The Little Friend - Donna Tartt
 70. The March - E.L. Doctorow
 71. Matterhorn - Karl Marlantes
 72. The Mind's Eye - Oliver Sacks
@@ -77,7 +77,7 @@
 75. The Museum of Extraordinary Things - Alice Hoffman
 76. The Man Who Loved Only Numbers - Paul Hoffman
 77. My Brilliant Friend - Elena Ferrante
-78. Midnight's Children - Salman Rushdie
+78. The Secret History - Donna Tartt
 79. The Merchant's Daughter - Melanie Dickerson
 80. The Monk - Matthew Lewis
 81. Midnight Sun - Stephenie Meyer
@@ -87,7 +87,7 @@
 85. The Midnight Girls - Alicia Jasinska
 86. Money - Martin Amis
 87. The Mayfair Witches - Anne Rice
-88. Mansfield Park - Jane Austen
+88. If We Were Villains - M.L. Rio
 89. The Music of What Happens - Bill Konigsberg
 90. Moonglow - Michael Chabon
 91. The Moonstone - Wilkie Collins

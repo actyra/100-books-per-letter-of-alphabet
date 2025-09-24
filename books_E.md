@@ -32,7 +32,7 @@
 30. The Education of Henry Adams - Henry Adams
 31. Empire of the Sun - J.G. Ballard
 32. The Eyre Affair - Jasper Fforde
-33. Ella Minnow Pea - Mark Dunn
+35. The Empress of Salt and Fortune - Nghi Vo
 34. The Earthsea Cycle - Ursula K. Le Guin
 35. The Essex Serpent - Sarah Perry
 36. Educated - Tara Westover

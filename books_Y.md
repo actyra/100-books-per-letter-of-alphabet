@@ -7,7 +7,7 @@
 5. The Year of Magical Thinking - Joan Didion
 6. Yann Martel - Life of Pi
 7. Yes Please - Amy Poehler
-8. The Yacoubian Building - Alaa Al Aswany
+8. The Trouble with Peace - Joe Abercrombie
 9. You Are a Badass - Jen Sincero
 10. The Yellow Birds - Kevin Powers
 11. The Years - Virginia Woolf
@@ -75,10 +75,10 @@
 73. The Year of the Monkey - Patti Smith
 74. You're Never Weird on the Internet - Felicia Day
 75. The Yellow-Lighted Bookshop - Lewis Buzbee
-76. You Can't Go Home Again - Thomas Wolfe
+76. The Thorn of Emberlain - Scott Lynch
 77. The Year of Reading Dangerously - Andy Miller
 78. You'll Never Believe What Happened - Joel McHale
-79. The Young Hemingway - Michael Reynolds
+79. The Way of Kings - Brandon Sanderson
 80. Yoga and the Bible - Susan Bordenkircher
 81. The Year of Pleasures - Elizabeth Berg
 82. You Are My Only - Beth Kephart
@@ -90,7 +90,7 @@
 88. Young Money - Kevin Roose
 89. The Year of the Rat - Grace Lin
 90. You Know Me Well - Nina LaCour
-91. The Young Hemingway - Michael Reynolds
+91. Words of Radiance - Brandon Sanderson
 92. Yoga Nidra - Swami Satyananda Saraswati
 93. The Year of the Tiger - Alison Lloyd
 94. You'll Grow Out of It - Jessi Klein

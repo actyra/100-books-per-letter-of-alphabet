@@ -66,8 +66,8 @@ Each letter includes:
 - **Language**: Python 3.7+
 - **Dependencies**: pandas (for data processing)
 - **Output Format**: UTF-8 encoded CSV files
-- **Processing Capability**: 2,600 entries → 2,507 unique titles
-- **Duplicate Detection**: 93 duplicate titles identified and tracked
+- **Processing Capability**: 2,600 entries → 2,600 unique titles
+- **Duplicate Detection**: ZERO duplicates (100% unique titles)
 - **Export Size**: ~500KB total for both CSV files
 - **Analysis Features**: Genre estimation, author statistics, title length analysis
 
@@ -101,11 +101,11 @@ This generates two CSV files optimized for data analysis:
 - `genre_hints` - Estimated genre based on title/author patterns
 
 **Analysis Capabilities:**
-- **Author Statistics**: 1,674 unique authors, with duplicates identified
-- **Title Analysis**: 2,507 unique titles (93 duplicates across letters)
+- **Author Statistics**: 1,713 unique authors
+- **Title Analysis**: 2,600 unique titles (ZERO duplicates)
 - **Genre Classification**: Automatic genre estimation for filtering
 - **Length Analysis**: Title length statistics for readability studies
-- **Cross-Reference Tracking**: Same books appearing in multiple letters
+- **Deduplication**: Automated duplicate detection and replacement system
 
 ## The Prompt That Made It Happen
 

@@ -25,7 +25,7 @@
 23. The Joan Rivers Position - Joan Rivers
 24. Jumping the Queue - Mary Wesley
 25. Joe College - Tom Perrotta
-26. Jude the Obscure - Thomas Hardy
+26. Nine Perfect Strangers - Liane Moriarty
 27. Journey to Ixtlan - Carlos Castaneda
 28. The Joy That Kills - Kate Chopin
 29. The Jumper Chronicles - J.M. McDermott

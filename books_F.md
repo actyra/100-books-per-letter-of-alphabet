@@ -24,7 +24,7 @@
 22. The Five Love Languages - Gary Chapman
 23. Free Will - Sam Harris
 24. Fast Food Nation - Eric Schlosser
-25. The Fault in Our Stars - John Green
+25. An American Marriage - Tayari Jones
 26. The Fixer - Bernard Malamud
 27. The Fall - Albert Camus
 28. Funny Girl - Nick Hornby

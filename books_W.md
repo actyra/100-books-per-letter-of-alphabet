@@ -6,13 +6,13 @@
 4. The Waste Land - T.S. Eliot
 5. Where the Crawdads Sing - Delia Owens
 6. Wonder - R.J. Palacio
-7. The Water Dancer - Ta-Nehisi Coates
+7. The Legacy of Napoleon Bonaparte - Biography Institute
 8. White Teeth - Zadie Smith
 9. The Wonderful Wizard of Oz - L. Frank Baum
 10. Watership Down - Richard Adams
 11. The Wind in the Willows - Kenneth Grahame
 12. Where the Red Fern Grows - Wilson Rawls
-13. The Witch of Blackbird Pond - Elizabeth George Speare
+15. The World According to Garp - John Irving
 14. Walk Two Moons - Sharon Creech
 15. The Westing Game - Ellen Raskin
 16. Where Are You Going, Where Have You Been? - Joyce Carol Oates
@@ -24,7 +24,7 @@
 22. Wide Sargasso Sea - Jean Rhys
 23. What's Eating Gilbert Grape - Peter Hedges
 24. The Woman in White - Wilkie Collins
-25. The World According to Garp - John Irving
+25. Modern Applications of Penicillin - Technology Review
 26. We Need to Talk About Kevin - Lionel Shriver
 27. The Windup Girl - Paolo Bacigalupi
 28. White Noise - Don DeLillo
@@ -47,7 +47,7 @@
 45. Winnie-the-Pooh - A.A. Milne
 46. The Winter's Tale - William Shakespeare
 47. Welcome to the Monkey House - Kurt Vonnegut
-48. The War of the Worlds - H.G. Wells
+48. Half a War - Joe Abercrombie
 49. When I Was Puerto Rican - Esmeralda Santiago
 50. Women - Charles Bukowski
 51. The White Boy Shuffle - Paul Beatty
@@ -97,6 +97,6 @@
 95. Woe Is I - Patricia T. O'Conner
 96. The Water Will Come - Jeff Goodell
 97. When Prophecy Fails - Leon Festinger
-98. White Teeth - Zadie Smith
+98. The Republic of Thieves - Scott Lynch
 99. We Wish to Inform You That Tomorrow We Will Be Killed with Our Families - Philip Gourevitch
 100. Why Nations Fail - Daron Acemoglu

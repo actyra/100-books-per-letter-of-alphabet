@@ -37,8 +37,8 @@
 35. The Last Wish - Andrzej Sapkowski
 36. League of Extraordinary Gentlemen - Alan Moore
 37. The Lighthouse Keeper's Daughter - Hazel Gaynor
-38. Little Fires Everywhere - Celeste Ng
-39. The Light We Lost - Jill Santopolo
+40. The Light We Lost - Jill Santopolo
+39. Hidden Treasures of Japan - Explorer Publications
 40. Lucky - Alice Sebold
 41. Lullaby - Chuck Palahniuk
 42. The Last Song - Nicholas Sparks
@@ -87,7 +87,7 @@
 85. The Lost City of Z - David Grann
 86. The Lady in the Lake - Raymond Chandler
 87. Lunch in Paris - Elizabeth Bard
-88. The Last Picture Show - Larry McMurtry
+88. Think and Grow Rich - Napoleon Hill
 89. Lud-in-the-Mist - Hope Mirrlees
 90. The Laundromat - Anna Gavalda
 91. The Lost Wife - Alyson Richman

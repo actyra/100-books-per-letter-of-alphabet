@@ -27,7 +27,7 @@
 25. The Client - John Grisham
 26. Childhood's End - Arthur C. Clarke
 27. The Crucible - Arthur Miller
-28. Catherine the Great - Robert K. Massie
+30. The Covenant of Water - Abraham Verghese
 29. Coraline - Neil Gaiman
 30. The Chosen - Chaim Potok
 31. Cold Sassy Tree - Olive Ann Burns

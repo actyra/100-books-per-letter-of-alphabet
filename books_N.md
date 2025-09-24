@@ -10,7 +10,7 @@
 8. Native Son - Richard Wright
 9. The Name of the Wind - Patrick Rothfuss
 10. Nana - Émile Zola
-11. Notes from Underground - Fyodor Dostoevsky
+11. Outliers - Malcolm Gladwell
 12. Narcissus and Goldmund - Hermann Hesse
 13. The Naked and the Dead - Norman Mailer
 14. No Country for Old Men - Cormac McCarthy
@@ -20,9 +20,9 @@
 18. Nervous Conditions - Tsitsi Dangarembga
 19. The Namesake - Jhumpa Lahiri
 20. Night Circus - Erin Morgenstern
-21. The Nickel Boys - Colson Whitehead
+21. Introduction to Quantum Physics - University Press
 22. Nobody's Fool - Richard Russo
-23. Nightwood - Djuna Barnes
+25. The Name of the Rose - Umberto Eco
 24. The Natural - Bernard Malamud
 25. New Moon - Stephenie Meyer
 26. Nicholas Nickleby - Charles Dickens
@@ -44,10 +44,10 @@
 42. Nice Work - David Lodge
 43. Never Ending - Martyn Bedford
 44. Naked Lunch - William S. Burroughs
-45. The Namesake - Jhumpa Lahiri
+45. The Atlas Six - Olivie Blake
 46. Necessary Lies - Diane Chamberlain
 47. The Night She Disappeared - Lisa Jewell
-48. North of Normal - Cea Sunrise Person
+50. The Night Watchman - Louise Erdrich
 49. Nella Last's War - Nella Last
 50. Nemesis - Philip Roth
 51. The Night Country - Stewart O'Nan
@@ -57,22 +57,22 @@
 55. No Logo - Naomi Klein
 56. The Night Shift - Stephen King
 57. Notes on a Scandal - Zoë Heller
-58. The Nickel Boys - Colson Whitehead
+58. This Savage Song - V.E. Schwab
 59. Night Train to Lisbon - Pascal Mercier
-60. The Namesake - Jhumpa Lahiri
+60. The Invisible Life of Addie LaRue - V.E. Schwab
 61. Not That Kind of Girl - Lena Dunham
 62. The Night Strangers - Chris Bohjalian
 63. The New Rules of Marriage - Terrence Real
 64. Nothing to Envy - Barbara Demick
 65. The Nightingale - Kristin Hannah
-66. Nine Perfect Strangers - Liane Moriarty
+66. Journey Through Japan - Travel Press
 67. The Nest - Cynthia D'Aprix Sweeney
 68. Nobody's Baby But Mine - Susan Elizabeth Phillips
 69. Now Is the Time to Open Your Heart - Alice Walker
 70. The Night Portrait - Laura Morelli
 71. No Time to Spare - Ursula K. Le Guin
 72. The Noise of Time - Julian Barnes
-73. Netherland - Joseph O'Neill
+75. Understanding Penicillin - Scientific Publications
 74. The Night Before Christmas - Clement Clarke Moore
 75. Never Cry Wolf - Farley Mowat
 76. The Night Villa - Carol Goodman

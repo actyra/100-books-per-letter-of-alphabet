@@ -24,7 +24,7 @@
 22. The Zimmermann Telegram - Barbara Tuchman
 23. Zone One - Colson Whitehead
 24. The Zap Gun - Philip K. Dick
-25. Zuleika Dobson - Max Beerbohm
+25. Oathbringer - Brandon Sanderson
 26. The Zen Teaching of Huang Po - John Blofeld
 27. Zero History - William Gibson
 28. The Zen of Steve Jobs - Caleb Melby
@@ -39,7 +39,7 @@
 37. Zero Degrees of Empathy - Simon Baron-Cohen
 38. The Zeppelin's Passenger - E. Phillips Oppenheim
 39. Zen Flesh, Zen Bones - Paul Reps
-40. The Zone - Joe Abercrombie
+40. The Final Empire - Brandon Sanderson
 41. Zero Point - Neal Asher
 42. The Zookeeper's Daughter - Various
 43. Zen and the Brain - James H. Austin
@@ -59,7 +59,7 @@
 57. Zero Day - David Baldacci
 58. The Zookeeper's Boy - Various
 59. Zen and the Art of Happiness - Chris Prentiss
-60. The Zone of Silence - Various
+60. The Well of Ascension - Brandon Sanderson
 61. Zero G - Dan Wells
 62. The Zuckerman Bound - Philip Roth
 63. Zen Pencils - Gavin Aung Than
@@ -67,7 +67,7 @@
 65. Zero at the Bone - Jane Seville
 66. The Zeus Command - Hugh Walters
 67. Zen and the Art of Falling in Love - Brenda Shoshanna
-68. The Zone of Silence - Various
+68. The Hero of Ages - Brandon Sanderson
 69. Zero Sum - B.V. Larson
 70. The Zelig Factor - Various
 71. Zen Master Tales - Various
@@ -91,12 +91,12 @@
 89. Zero Visibility - Sharon Dunn
 90. The Zeitgeist Movement - Peter Joseph
 91. Zen and the Art of Stand-Up Comedy - Jay Sankey
-92. The Zone of Silence - Ernesto Mallo
+92. The Alloy of Law - Brandon Sanderson
 93. Zero to Infinity - Reid Hoffman
 94. The Zen of Cooking - Edward Espe Brown
 95. Zone Therapy - Various
 96. The Zulu War - Various
 97. Zen and the Art of Archery - Eugen Herrigel
-98. The Zone of Interest - Martin Amis
+98. Rhythm of War - Brandon Sanderson
 99. Zero Limits - Joe Vitale
 100. The Zen of Python - Tim Peters

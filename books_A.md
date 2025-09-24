@@ -93,7 +93,7 @@
 91. Alas, Babylon - Pat Frank
 92. A Scanner Darkly - Philip K. Dick
 93. The Amateur Marriage - Anne Tyler
-94. Atonement - Ian McEwan
+94. Where the Forest Meets the Stars - Glendy Vanderah
 95. A Heartbreaking Work of Staggering Genius - Dave Eggers
 96. The Angel's Game - Carlos Ruiz Zafón
 97. Anything Is Possible - Elizabeth Strout

@@ -16,7 +16,7 @@
 14. The Kalahari Typing School for Men - Alexander McCall Smith
 15. Killers of the Flower Moon - David Grann
 16. King Arthur - Various
-17. The Kite Runner - Khaled Hosseini
+17. The Subtle Art of Not Giving a F*ck - Mark Manson
 18. Katana - Cole Gibsen
 19. The Kingmaker's Daughter - Philippa Gregory
 20. Kaffir Boy - Mark Mathabane
@@ -32,7 +32,7 @@
 30. Karma - Sadhguru
 31. The Key to Rebecca - Ken Follett
 32. Keep the Aspidistra Flying - George Orwell
-33. Kidnapped - Robert Louis Stevenson
+33. Dark Places - Gillian Flynn
 34. The King Must Die - Mary Renault
 35. Knots and Crosses - Ian Rankin
 36. The Kalahari Typing School - Alexander McCall Smith
@@ -55,7 +55,7 @@
 53. The Keeper of Lost Causes - Jussi Adler-Olsen
 54. Kitchen Privileges - Mary Higgins Clark
 55. The Kite Fighters - Linda Sue Park
-56. Klara and the Sun - Kazuo Ishiguro
+56. The 7 Habits of Highly Effective People - Stephen Covey
 57. The Keeper - Tim Howard
 58. Kafka's Metamorphosis - Franz Kafka
 59. The Kingkiller Chronicle - Patrick Rothfuss
@@ -70,7 +70,7 @@
 68. Killing Floor - Lee Child
 69. The Kindness Diaries - Leon Logothetis
 70. King's Cage - Victoria Aveyard
-71. The Kite Runner - Khaled Hosseini
+71. The Life and Times of Napoleon Bonaparte - Academic Press
 72. Katherine - Anya Seton
 73. The King of Attolia - Megan Whalen Turner
 74. Killers - Richard Ford

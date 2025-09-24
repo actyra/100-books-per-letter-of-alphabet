@@ -22,7 +22,7 @@
 20. Ghost World - Daniel Clowes
 21. The Gnostic Gospels - Elaine Pagels
 22. The Gathering - Anne Enright
-23. The Geography of Bliss - Eric Weiner
+25. The Galaxy and the Ground Within - Becky Chambers
 24. Guns, Germs, and Steel - Jared Diamond
 25. The Giving Tree - Shel Silverstein
 26. The God Delusion - Richard Dawkins
@@ -37,7 +37,7 @@
 35. The Ghost and Mrs. Muir - R.A. Dick
 36. Garden State - Zach Braff
 37. The Great Divergence - Kenneth Pomeranz
-38. The Great Train Robbery - Michael Crichton
+40. The Great Alone - Kristin Hannah
 39. The Gentlemen's Hour - Don Winslow
 40. Goodbye, Columbus - Philip Roth
 41. The Gospel According to Jesus Christ - José Saramago
@@ -59,12 +59,12 @@
 57. The Ghost Writer - Philip Roth
 58. A Good Year - Peter Mayle
 59. The Girl Who Kicked the Hornet's Nest - Stieg Larsson
-60. The God of Small Things - Arundhati Roy
+60. The Water Dancer - Ta-Nehisi Coates
 61. The Good Mother - Sue Miller
 62. The Great War for Civilisation - Robert Fisk
 63. Getting to Yes - Roger Fisher
 64. The Girl in the Spider's Web - David Lagercrantz
-65. The Great Alone - Kristin Hannah
+65. Understanding Napoleon Bonaparte - Historical Society
 66. The Goldfinch - Donna Tartt
 67. The Guernsey Literary and Potato Peel Pie Society - Mary Ann Shaffer
 68. The Green Book - Peter Farrelly

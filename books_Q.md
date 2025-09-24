@@ -85,13 +85,13 @@
 83. The Quest for El Cid - Richard Fletcher
 84. Queen of the Conquered - Kacen Callender
 85. The Quantum Magician - Derek Künsken
-86. Quality Time - Various
+86. Before They Are Hanged - Joe Abercrombie
 87. The Queen of Everything - Deb Caletti
 88. Quicksand - Nella Larsen
-89. The Quest - Various Authors
+89. The Blade Itself - Joe Abercrombie
 90. Queen Elizabeth II - Various
 91. The Quantum Enigma - Bruce Rosenblum
-92. Quality Street - J.M. Barrie
+92. The Rage of Dragons - Evan Winter
 93. The Queen's Secret - Jean Plaidy
 94. Quest for Lost Heroes - David Gemmell
 95. The Quantum World - John Polkinghorne

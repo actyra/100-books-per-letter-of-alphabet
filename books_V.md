@@ -26,11 +26,11 @@
 24. The Vagrants - Yiyun Li
 25. Very Good Lives - J.K. Rowling
 26. The Vegetarian - Han Kang
-27. Vicious - V.E. Schwab
+27. David and Goliath - Malcolm Gladwell
 28. The Viper's Nest - Peter Lerangis
 29. Violet & Daisy - Geoffrey Fletcher
 30. The Vintage Book of Contemporary American Short Stories - Tobias Wolff
-31. A Visit from the Goon Squad - Jennifer Egan
+31. The Sanatorium - Sarah Pearse
 32. The Velveteen Rabbit - Margery Williams
 33. Vineland - Thomas Pynchon
 34. The Virgin Suicides - Jeffrey Eugenides
@@ -81,10 +81,10 @@
 79. Vampire Knight - Matsuri Hino
 80. Voices - Arnaldur Indridason
 81. The Van - Roddy Doyle
-82. Vanished - Danielle Steel
+82. The Lies of Locke Lamora - Scott Lynch
 83. Victoria - Daisy Goodwin
 84. The Visible Man - Chuck Klosterman
-85. Vampire Academy - Richelle Mead
+85. Red Seas Under Red Skies - Scott Lynch
 86. Vermont - Jan Morris
 87. Valley of Silence - Nora Roberts
 88. The Villa - Nora Roberts

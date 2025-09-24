@@ -19,7 +19,7 @@
 17. Peace Like a River - Leif Enger
 18. Precious - Sapphire
 19. The Polar Express - Chris Van Allsburg
-20. The Power - Naomi Alderman
+20. Contemporary Quantum Physics - Scholarly Works
 21. Paper Towns - John Green
 22. The Prestige - Christopher Priest
 23. Pinocchio - Carlo Collodi
@@ -39,10 +39,10 @@
 37. Possession - A.S. Byatt
 38. The Piano Teacher - Elfriede Jelinek
 39. Push - Sapphire
-40. The Poisonwood Bible - Barbara Kingsolver
+40. The Starless Sea - Erin Morgenstern
 41. Phantom Tollbooth - Norton Juster
 42. The Pickwick Papers - Charles Dickens
-43. Peyton Place - Grace Metalious
+45. The Power Broker - Robert Caro
 44. The Potato Factory - Bryce Courtenay
 45. Plainsong - Kent Haruf
 46. The Poisoner's Tale - Various
@@ -59,8 +59,8 @@
 57. The Price of Salt - Patricia Highsmith
 58. The Physics of Sorrow - Georgi Gospodinov
 59. Past Tense - Lee Child
-60. A Prayer for Owen Meany - John Irving
-61. The Poisonwood Bible - Barbara Kingsolver
+60. Project Hail Mary - Andy Weir
+61. The Bear and the Nightingale - Katherine Arden
 62. The Postman Always Rings Twice - James M. Cain
 63. Prayers for Bobby - Leroy Aarons
 64. The Power and the Glory - Graham Greene
@@ -75,7 +75,7 @@
 73. The Puttermesser Papers - Cynthia Ozick
 74. Portnoy's Complaint - Philip Roth
 75. The Passion - Jeanette Winterson
-76. Push - Sapphire
+76. The Winter of the Witch - Katherine Arden
 77. The Paper Palace - Miranda Cowley Heller
 78. The Potato Peel Pie Society - Mary Ann Shaffer
 79. The People in the Trees - Hanya Yanagihara
@@ -92,7 +92,7 @@
 90. The Postmistress - Sarah Blake
 91. Parable of the Talents - Octavia E. Butler
 92. The Pilgrim's Progress - John Bunyan
-93. The Poisoner's Tale - Margaret Frazer
+93. The Gilded Ones - Namina Forna
 94. The Paris Architect - Charles Belfoure
 95. Playing with Fire - Tess Gerritsen
 96. The Patchwork Girl of Oz - L. Frank Baum

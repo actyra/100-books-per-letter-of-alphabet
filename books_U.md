@@ -2,7 +2,7 @@
 
 1. Ulysses - James Joyce
 2. Uncle Tom's Cabin - Harriet Beecher Stowe
-3. The Unbearable Lightness of Being - Milan Kundera
+3. A Little Hatred - Joe Abercrombie
 4. Under the Volcano - Malcolm Lowry
 5. The Upanishads - Various
 6. USA - John Dos Passos
@@ -17,7 +17,7 @@
 15. Under the Dome - Stephen King
 16. The Unconsoled - Kazuo Ishiguro
 17. Unbroken - Laura Hillenbrand
-18. The Underground Railroad - Colson Whitehead
+18. The Lean Startup - Eric Ries
 19. Ulysses S. Grant - Ron Chernow
 20. The Umbrella Academy - Gerard Way
 21. Underworld - Don DeLillo
@@ -88,7 +88,7 @@
 86. The Unit - Ninni Holmqvist
 87. Unwholly - Neal Shusterman
 88. The Unbecoming of Mara Dyer - Michelle Hodkin
-89. Understanding Comics - Scott McCloud
+89. The Wisdom of Crowds - Joe Abercrombie
 90. Uncle Tungsten - Oliver Sacks
 91. The Unlikely Disciple - Kevin Roose
 92. Until They Bring the Streetcars Back - Stanley Gordon West

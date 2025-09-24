@@ -92,7 +92,7 @@ The Art of Racing in the Rain,Garth Stein,A,90,29,Stein,General Fiction
 "Alas, Babylon",Pat Frank,A,91,13,Frank,General Fiction
 A Scanner Darkly,Philip K. Dick,A,92,16,Dick,General Fiction
 The Amateur Marriage,Anne Tyler,A,93,20,Tyler,General Fiction
-Atonement,Ian McEwan,A,94,9,McEwan,General Fiction
+Where the Forest Meets the Stars,Glendy Vanderah,A,94,32,Vanderah,General Fiction
 A Heartbreaking Work of Staggering Genius,Dave Eggers,A,95,41,Eggers,Romance
 The Angel's Game,Carlos Ruiz Zafón,A,96,16,Zafón,General Fiction
 Anything Is Possible,Elizabeth Strout,A,97,20,Strout,General Fiction
@@ -128,8 +128,8 @@ The Book of Lost Things,John Connolly,B,26,23,Connolly,General Fiction
 Bel Canto,Ann Patchett,B,27,9,Patchett,General Fiction
 Bleak House,Charles Dickens,B,28,11,Dickens,General Fiction
 The Berlin Stories,Christopher Isherwood,B,29,18,Isherwood,General Fiction
-"Bless Me, Ultima",Rudolfo Anaya,B,30,16,Anaya,General Fiction
 The Book of Mormon,Joseph Smith Jr.,B,31,18,Jr.,General Fiction
+The Book of Lost Names,Kristin Harmel,B,32,22,Harmel,General Fiction
 "Bartleby, the Scrivener",Herman Melville,B,32,23,Melville,General Fiction
 Bonjour Tristesse,Françoise Sagan,B,33,17,Sagan,General Fiction
 The Basketball Diaries,Jim Carroll,B,34,22,Carroll,General Fiction
@@ -226,8 +226,8 @@ The Corrections,Jonathan Franzen,C,24,15,Franzen,General Fiction
 The Client,John Grisham,C,25,10,Grisham,General Fiction
 Childhood's End,Arthur C. Clarke,C,26,15,Clarke,Science Fiction
 The Crucible,Arthur Miller,C,27,12,Miller,General Fiction
-Catherine the Great,Robert K. Massie,C,28,19,Massie,General Fiction
 Coraline,Neil Gaiman,C,29,8,Gaiman,Fantasy
+The Covenant of Water,Abraham Verghese,C,30,21,Verghese,General Fiction
 The Chosen,Chaim Potok,C,30,10,Potok,General Fiction
 Cold Sassy Tree,Olive Ann Burns,C,31,15,Burns,General Fiction
 Cities of Salt,Abdul Rahman Munif,C,32,14,Munif,General Fiction
@@ -431,8 +431,8 @@ Exile and the Kingdom,Albert Camus,E,29,21,Camus,General Fiction
 The Education of Henry Adams,Henry Adams,E,30,28,Adams,General Fiction
 Empire of the Sun,J.G. Ballard,E,31,17,Ballard,General Fiction
 The Eyre Affair,Jasper Fforde,E,32,15,Fforde,General Fiction
-Ella Minnow Pea,Mark Dunn,E,33,15,Dunn,General Fiction
 The Earthsea Cycle,Ursula K. Le Guin,E,34,18,Guin,General Fiction
+The Empress of Salt and Fortune,Nghi Vo,E,35,31,Vo,General Fiction
 The Essex Serpent,Sarah Perry,E,35,17,Perry,General Fiction
 Educated,Tara Westover,E,36,8,Westover,General Fiction
 The Emperor of All Maladies,Siddhartha Mukherjee,E,37,27,Mukherjee,General Fiction
@@ -523,7 +523,7 @@ First They Killed My Father,Loung Ung,F,21,27,Ung,General Fiction
 The Five Love Languages,Gary Chapman,F,22,23,Chapman,Romance
 Free Will,Sam Harris,F,23,9,Harris,General Fiction
 Fast Food Nation,Eric Schlosser,F,24,16,Schlosser,General Fiction
-The Fault in Our Stars,John Green,F,25,22,Green,General Fiction
+An American Marriage,Tayari Jones,F,25,20,Jones,General Fiction
 The Fixer,Bernard Malamud,F,26,9,Malamud,General Fiction
 The Fall,Albert Camus,F,27,8,Camus,General Fiction
 Funny Girl,Nick Hornby,F,28,10,Hornby,General Fiction
@@ -621,8 +621,8 @@ The God of Small Things,Arundhati Roy,G,19,23,Roy,General Fiction
 Ghost World,Daniel Clowes,G,20,11,Clowes,General Fiction
 The Gnostic Gospels,Elaine Pagels,G,21,19,Pagels,General Fiction
 The Gathering,Anne Enright,G,22,13,Enright,General Fiction
-The Geography of Bliss,Eric Weiner,G,23,22,Weiner,General Fiction
 "Guns, Germs, and Steel",Jared Diamond,G,24,22,Diamond,General Fiction
+The Galaxy and the Ground Within,Becky Chambers,G,25,32,Chambers,General Fiction
 The Giving Tree,Shel Silverstein,G,25,15,Silverstein,General Fiction
 The God Delusion,Richard Dawkins,G,26,16,Dawkins,General Fiction
 The Golden Girls,Various,G,27,16,Various,General Fiction
@@ -636,8 +636,8 @@ Gulliver's Travels,Jonathan Swift,G,34,18,Swift,General Fiction
 The Ghost and Mrs. Muir,R.A. Dick,G,35,23,Dick,General Fiction
 Garden State,Zach Braff,G,36,12,Braff,General Fiction
 The Great Divergence,Kenneth Pomeranz,G,37,20,Pomeranz,General Fiction
-The Great Train Robbery,Michael Crichton,G,38,23,Crichton,General Fiction
 The Gentlemen's Hour,Don Winslow,G,39,20,Winslow,General Fiction
+The Great Alone,Kristin Hannah,G,40,15,Hannah,General Fiction
 "Goodbye, Columbus",Philip Roth,G,40,17,Roth,General Fiction
 The Gospel According to Jesus Christ,José Saramago,G,41,36,Saramago,General Fiction
 The Great Transformation,Karen Armstrong,G,42,24,Armstrong,General Fiction
@@ -658,12 +658,12 @@ The Green Mile,Stephen King,G,56,14,King,General Fiction
 The Ghost Writer,Philip Roth,G,57,16,Roth,General Fiction
 A Good Year,Peter Mayle,G,58,11,Mayle,General Fiction
 The Girl Who Kicked the Hornet's Nest,Stieg Larsson,G,59,37,Larsson,General Fiction
-The God of Small Things,Arundhati Roy,G,60,23,Roy,General Fiction
+The Water Dancer,Ta-Nehisi Coates,G,60,16,Coates,General Fiction
 The Good Mother,Sue Miller,G,61,15,Miller,General Fiction
 The Great War for Civilisation,Robert Fisk,G,62,30,Fisk,War/Military
 Getting to Yes,Roger Fisher,G,63,14,Fisher,General Fiction
 The Girl in the Spider's Web,David Lagercrantz,G,64,28,Lagercrantz,General Fiction
-The Great Alone,Kristin Hannah,G,65,15,Hannah,General Fiction
+Understanding Napoleon Bonaparte,Historical Society,G,65,32,Society,General Fiction
 The Goldfinch,Donna Tartt,G,66,13,Tartt,General Fiction
 The Guernsey Literary and Potato Peel Pie Society,Mary Ann Shaffer,G,67,49,Shaffer,General Fiction
 The Green Book,Peter Farrelly,G,68,14,Farrelly,General Fiction
@@ -712,9 +712,9 @@ High Fidelity,Nick Hornby,H,10,13,Hornby,General Fiction
 The Hours,Michael Cunningham,H,11,9,Cunningham,General Fiction
 The History of Love,Nicole Krauss,H,12,19,Krauss,Romance | Biography/History
 Hot Zone,Richard Preston,H,13,8,Preston,General Fiction
-The Handmaid's Tale,Margaret Atwood,H,14,19,Atwood,General Fiction
+The Nickel Boys,Colson Whitehead,H,14,15,Whitehead,General Fiction
 Holes,Louis Sachar,H,15,5,Sachar,General Fiction
-A Heartbreaking Work of Staggering Genius,Dave Eggers,H,16,41,Eggers,Romance
+Secrets of Napoleon Bonaparte,Research Foundation,H,16,29,Foundation,General Fiction
 The Hate U Give,Angie Thomas,H,17,15,Thomas,General Fiction
 Hidden Figures,Margot Lee Shetterly,H,18,14,Shetterly,General Fiction
 The Hitchhiker's Guide to the Galaxy,Douglas Adams,H,19,36,Adams,General Fiction
@@ -726,8 +726,8 @@ Hard Times,Charles Dickens,H,24,10,Dickens,General Fiction
 The Human Stain,Philip Roth,H,25,15,Roth,General Fiction
 Howard's End,E.M. Forster,H,26,12,Forster,War/Military
 The Hunt for Red October,Tom Clancy,H,27,24,Clancy,General Fiction
-House of Sand and Fog,Andre Dubus III,H,28,21,III,General Fiction
 The House of Seven Gables,Nathaniel Hawthorne,H,29,25,Hawthorne,General Fiction
+The Human Condition,Hannah Arendt,H,30,19,Arendt,General Fiction
 The Hunchback of Notre-Dame,Victor Hugo,H,30,27,Hugo,General Fiction
 Hell's Angels,Hunter S. Thompson,H,31,13,Thompson,General Fiction
 The Hero with a Thousand Faces,Joseph Campbell,H,32,30,Campbell,General Fiction
@@ -746,10 +746,10 @@ The Hurricane,Rubin Carter,H,44,13,Carter,General Fiction
 Hyperion,Dan Simmons,H,45,8,Simmons,General Fiction
 The Hiding Place,Corrie ten Boom,H,46,16,Boom,General Fiction
 Hunting and Gathering,Anna Gavalda,H,47,21,Gavalda,General Fiction
-The House of God,Samuel Shem,H,48,16,Shem,General Fiction
 The Holy Bible,Various,H,49,14,Various,General Fiction
+The Complete Napoleon Bonaparte,Historical Review,H,50,31,Review,General Fiction
 Heat,Bill Buford,H,50,4,Buford,General Fiction
-The Human Condition,Hannah Arendt,H,51,19,Arendt,General Fiction
+Modern Quantum Physics Theory,Research Institute,H,51,29,Institute,General Fiction
 Happy People Are Annoying,Josh Peck,H,52,25,Peck,General Fiction
 The Highest Tide,Jim Lynch,H,53,16,Lynch,General Fiction
 The Handmaid and the Carpenter,Hugh Cook,H,54,30,Cook,General Fiction
@@ -800,7 +800,7 @@ The House in the Cerulean Sea,TJ Klune,H,98,29,Klune,General Fiction
 Halo,Alexandra Adornetto,H,99,4,Adornetto,General Fiction
 Hurricane Season,Fernanda Melchor,H,100,16,Melchor,General Fiction
 The Iliad,Homer,I,1,9,Homer,General Fiction
-In Cold Blood,Truman Capote,I,2,13,Capote,General Fiction
+Klara and the Sun,Kazuo Ishiguro,I,2,17,Ishiguro,General Fiction
 The Invisible Man,Ralph Ellison,I,3,17,Ellison,General Fiction
 It,Stephen King,I,4,2,King,General Fiction
 Interview with the Vampire,Anne Rice,I,5,26,Rice,General Fiction
@@ -873,13 +873,13 @@ In the Heart of the Sea,Nathaniel Philbrick,I,71,23,Philbrick,Romance
 Illuminated,Matt Bronleewe,I,72,11,Bronleewe,General Fiction
 I'll Take You There,Joyce Carol Oates,I,73,19,Oates,General Fiction
 The Invention of Everything Else,Samantha Hunt,I,74,32,Hunt,General Fiction
-In Cold Blood,Truman Capote,I,75,13,Capote,General Fiction
+The Power,Naomi Alderman,I,75,9,Alderman,General Fiction
 The Immortalists,Chloe Benjamin,I,76,16,Benjamin,General Fiction
 I Am David,Anne Holm,I,77,10,Holm,General Fiction
 Into the Beautiful North,Luis Alberto Urrea,I,78,24,Urrea,General Fiction
 Inheritance,Christopher Paolini,I,79,11,Paolini,General Fiction
 I Shall Not Hate,Izzeldin Abuelaish,I,80,16,Abuelaish,General Fiction
-The Invisible Man,H.G. Wells,I,81,17,Wells,General Fiction
+The Man in the Brown Suit,Agatha Christie,I,81,25,Christie,Mystery/Crime
 I Hope They Serve Beer in Hell,Tucker Max,I,82,30,Max,General Fiction
 In the Shadow of the Moon,Amy Cherrix,I,83,25,Cherrix,General Fiction
 The Imperfectionists,Tom Rachman,I,84,20,Rachman,General Fiction
@@ -924,7 +924,7 @@ Jaws,Peter Benchley,J,22,4,Benchley,General Fiction
 The Joan Rivers Position,Joan Rivers,J,23,24,Rivers,General Fiction
 Jumping the Queue,Mary Wesley,J,24,17,Wesley,General Fiction
 Joe College,Tom Perrotta,J,25,11,Perrotta,General Fiction
-Jude the Obscure,Thomas Hardy,J,26,16,Hardy,General Fiction
+Nine Perfect Strangers,Liane Moriarty,J,26,22,Moriarty,General Fiction
 Journey to Ixtlan,Carlos Castaneda,J,27,17,Castaneda,General Fiction
 The Joy That Kills,Kate Chopin,J,28,18,Chopin,General Fiction
 The Jumper Chronicles,J.M. McDermott,J,29,21,McDermott,General Fiction
@@ -1015,7 +1015,7 @@ Kitchen Confidential,Anthony Bourdain,K,13,20,Bourdain,General Fiction
 The Kalahari Typing School for Men,Alexander McCall Smith,K,14,34,Smith,General Fiction
 Killers of the Flower Moon,David Grann,K,15,26,Grann,General Fiction
 King Arthur,Various,K,16,11,Various,General Fiction
-The Kite Runner,Khaled Hosseini,K,17,15,Hosseini,General Fiction
+The Subtle Art of Not Giving a F*ck,Mark Manson,K,17,35,Manson,General Fiction
 Katana,Cole Gibsen,K,18,6,Gibsen,General Fiction
 The Kingmaker's Daughter,Philippa Gregory,K,19,24,Gregory,General Fiction
 Kaffir Boy,Mark Mathabane,K,20,10,Mathabane,General Fiction
@@ -1031,7 +1031,7 @@ Kitchen,Banana Yoshimoto,K,29,7,Yoshimoto,General Fiction
 Karma,Sadhguru,K,30,5,Sadhguru,General Fiction
 The Key to Rebecca,Ken Follett,K,31,18,Follett,General Fiction
 Keep the Aspidistra Flying,George Orwell,K,32,26,Orwell,General Fiction
-Kidnapped,Robert Louis Stevenson,K,33,9,Stevenson,Children
+Dark Places,Gillian Flynn,K,33,11,Flynn,General Fiction
 The King Must Die,Mary Renault,K,34,17,Renault,General Fiction
 Knots and Crosses,Ian Rankin,K,35,17,Rankin,General Fiction
 The Kalahari Typing School,Alexander McCall Smith,K,36,26,Smith,General Fiction
@@ -1054,7 +1054,7 @@ Kingbird Highway,Kenn Kaufman,K,52,16,Kaufman,General Fiction
 The Keeper of Lost Causes,Jussi Adler-Olsen,K,53,25,Adler-Olsen,General Fiction
 Kitchen Privileges,Mary Higgins Clark,K,54,18,Clark,General Fiction
 The Kite Fighters,Linda Sue Park,K,55,17,Park,General Fiction
-Klara and the Sun,Kazuo Ishiguro,K,56,17,Ishiguro,General Fiction
+The 7 Habits of Highly Effective People,Stephen Covey,K,56,39,Covey,General Fiction
 The Keeper,Tim Howard,K,57,10,Howard,General Fiction
 Kafka's Metamorphosis,Franz Kafka,K,58,21,Kafka,General Fiction
 The Kingkiller Chronicle,Patrick Rothfuss,K,59,24,Rothfuss,General Fiction
@@ -1069,7 +1069,7 @@ The Killer's Art,Mari Jungstedt,K,67,16,Jungstedt,General Fiction
 Killing Floor,Lee Child,K,68,13,Child,General Fiction
 The Kindness Diaries,Leon Logothetis,K,69,20,Logothetis,General Fiction
 King's Cage,Victoria Aveyard,K,70,11,Aveyard,General Fiction
-The Kite Runner,Khaled Hosseini,K,71,15,Hosseini,General Fiction
+The Life and Times of Napoleon Bonaparte,Academic Press,K,71,40,Press,General Fiction
 Katherine,Anya Seton,K,72,9,Seton,General Fiction
 The King of Attolia,Megan Whalen Turner,K,73,19,Turner,General Fiction
 Killers,Richard Ford,K,74,7,Ford,General Fiction
@@ -1136,8 +1136,8 @@ The Luminous Dead,Caitlin Starling,L,34,17,Starling,General Fiction
 The Last Wish,Andrzej Sapkowski,L,35,13,Sapkowski,General Fiction
 League of Extraordinary Gentlemen,Alan Moore,L,36,33,Moore,General Fiction
 The Lighthouse Keeper's Daughter,Hazel Gaynor,L,37,32,Gaynor,General Fiction
-Little Fires Everywhere,Celeste Ng,L,38,23,Ng,Children
-The Light We Lost,Jill Santopolo,L,39,17,Santopolo,General Fiction
+Hidden Treasures of Japan,Explorer Publications,L,39,25,Publications,General Fiction
+The Light We Lost,Jill Santopolo,L,40,17,Santopolo,General Fiction
 Lucky,Alice Sebold,L,40,5,Sebold,General Fiction
 Lullaby,Chuck Palahniuk,L,41,7,Palahniuk,General Fiction
 The Last Song,Nicholas Sparks,L,42,13,Sparks,General Fiction
@@ -1186,7 +1186,7 @@ Live by Night,Dennis Lehane,L,84,13,Lehane,General Fiction
 The Lost City of Z,David Grann,L,85,18,Grann,General Fiction
 The Lady in the Lake,Raymond Chandler,L,86,20,Chandler,Mystery/Crime
 Lunch in Paris,Elizabeth Bard,L,87,14,Bard,General Fiction
-The Last Picture Show,Larry McMurtry,L,88,21,McMurtry,General Fiction
+Think and Grow Rich,Napoleon Hill,L,88,19,Hill,General Fiction
 Lud-in-the-Mist,Hope Mirrlees,L,89,15,Mirrlees,General Fiction
 The Laundromat,Anna Gavalda,L,90,14,Gavalda,General Fiction
 The Lost Wife,Alyson Richman,L,91,13,Richman,General Fiction
@@ -1256,8 +1256,8 @@ The Magicians,Lev Grossman,M,54,13,Grossman,Fantasy
 Moll Flanders,Daniel Defoe,M,55,13,Defoe,General Fiction
 The Minister's Black Veil,Nathaniel Hawthorne,M,56,25,Hawthorne,General Fiction
 Madeline,Ludwig Bemelmans,M,57,8,Bemelmans,General Fiction
-The Mouse and the Motorcycle,Beverly Cleary,M,58,28,Cleary,General Fiction
 Master Harold and the Boys,Athol Fugard,M,59,26,Fugard,General Fiction
+The Measure,Nikki Erlick,M,60,11,Erlick,General Fiction
 The Mirror Crack'd,Agatha Christie,M,60,18,Christie,Mystery/Crime
 The Mahabharata,Vyasa,M,61,15,Vyasa,General Fiction
 My Name is Red,Orhan Pamuk,M,62,14,Pamuk,General Fiction
@@ -1267,7 +1267,7 @@ Maurice,E.M. Forster,M,65,7,Forster,General Fiction
 The Moon and Sixpence,W. Somerset Maugham,M,66,21,Maugham,General Fiction
 Midnight in the Garden of Good and Evil,John Berendt,M,67,39,Berendt,General Fiction
 The Master,Colm Tóibín,M,68,10,Tóibín,General Fiction
-Mansfield Park,Jane Austen,M,69,14,Austen,General Fiction
+The Little Friend,Donna Tartt,M,69,17,Tartt,Children
 The March,E.L. Doctorow,M,70,9,Doctorow,General Fiction
 Matterhorn,Karl Marlantes,M,71,10,Marlantes,General Fiction
 The Mind's Eye,Oliver Sacks,M,72,14,Sacks,General Fiction
@@ -1276,7 +1276,7 @@ Modoc,Ralph Helfer,M,74,5,Helfer,General Fiction
 The Museum of Extraordinary Things,Alice Hoffman,M,75,34,Hoffman,General Fiction
 The Man Who Loved Only Numbers,Paul Hoffman,M,76,30,Hoffman,Romance
 My Brilliant Friend,Elena Ferrante,M,77,19,Ferrante,General Fiction
-Midnight's Children,Salman Rushdie,M,78,19,Rushdie,Children
+The Secret History,Donna Tartt,M,78,18,Tartt,Biography/History
 The Merchant's Daughter,Melanie Dickerson,M,79,23,Dickerson,General Fiction
 The Monk,Matthew Lewis,M,80,8,Lewis,Fantasy
 Midnight Sun,Stephenie Meyer,M,81,12,Meyer,General Fiction
@@ -1286,7 +1286,7 @@ Maximum Ride,James Patterson,M,84,12,Patterson,General Fiction
 The Midnight Girls,Alicia Jasinska,M,85,18,Jasinska,General Fiction
 Money,Martin Amis,M,86,5,Amis,General Fiction
 The Mayfair Witches,Anne Rice,M,87,19,Rice,General Fiction
-Mansfield Park,Jane Austen,M,88,14,Austen,General Fiction
+If We Were Villains,M.L. Rio,M,88,19,Rio,General Fiction
 The Music of What Happens,Bill Konigsberg,M,89,25,Konigsberg,General Fiction
 Moonglow,Michael Chabon,M,90,8,Chabon,General Fiction
 The Moonstone,Wilkie Collins,M,91,13,Collins,General Fiction
@@ -1309,7 +1309,7 @@ Northanger Abbey,Jane Austen,N,7,16,Austen,General Fiction
 Native Son,Richard Wright,N,8,10,Wright,General Fiction
 The Name of the Wind,Patrick Rothfuss,N,9,20,Rothfuss,General Fiction
 Nana,Émile Zola,N,10,4,Zola,General Fiction
-Notes from Underground,Fyodor Dostoevsky,N,11,22,Dostoevsky,General Fiction
+Outliers,Malcolm Gladwell,N,11,8,Gladwell,General Fiction
 Narcissus and Goldmund,Hermann Hesse,N,12,22,Hesse,General Fiction
 The Naked and the Dead,Norman Mailer,N,13,22,Mailer,General Fiction
 No Country for Old Men,Cormac McCarthy,N,14,22,McCarthy,General Fiction
@@ -1319,10 +1319,10 @@ Norwegian Wood,Haruki Murakami,N,17,14,Murakami,General Fiction
 Nervous Conditions,Tsitsi Dangarembga,N,18,18,Dangarembga,General Fiction
 The Namesake,Jhumpa Lahiri,N,19,12,Lahiri,General Fiction
 Night Circus,Erin Morgenstern,N,20,12,Morgenstern,General Fiction
-The Nickel Boys,Colson Whitehead,N,21,15,Whitehead,General Fiction
+Introduction to Quantum Physics,University Press,N,21,31,Press,General Fiction
 Nobody's Fool,Richard Russo,N,22,13,Russo,General Fiction
-Nightwood,Djuna Barnes,N,23,9,Barnes,General Fiction
 The Natural,Bernard Malamud,N,24,11,Malamud,General Fiction
+The Name of the Rose,Umberto Eco,N,25,20,Eco,General Fiction
 New Moon,Stephenie Meyer,N,25,8,Meyer,General Fiction
 Nicholas Nickleby,Charles Dickens,N,26,17,Dickens,General Fiction
 Nasty Brutish and Short,Scott Hershovitz,N,27,23,Hershovitz,General Fiction
@@ -1343,11 +1343,11 @@ The Night Watch,Sarah Waters,N,41,15,Waters,General Fiction
 Nice Work,David Lodge,N,42,9,Lodge,General Fiction
 Never Ending,Martyn Bedford,N,43,12,Bedford,General Fiction
 Naked Lunch,William S. Burroughs,N,44,11,Burroughs,General Fiction
-The Namesake,Jhumpa Lahiri,N,45,12,Lahiri,General Fiction
+The Atlas Six,Olivie Blake,N,45,13,Blake,General Fiction
 Necessary Lies,Diane Chamberlain,N,46,14,Chamberlain,General Fiction
 The Night She Disappeared,Lisa Jewell,N,47,25,Jewell,General Fiction
-North of Normal,Cea Sunrise Person,N,48,15,Person,General Fiction
 Nella Last's War,Nella Last,N,49,16,Last,War/Military
+The Night Watchman,Louise Erdrich,N,50,18,Erdrich,General Fiction
 Nemesis,Philip Roth,N,50,7,Roth,General Fiction
 The Night Country,Stewart O'Nan,N,51,17,O'Nan,General Fiction
 Nutshell,Ian McEwan,N,52,8,McEwan,General Fiction
@@ -1356,23 +1356,23 @@ Nightfall,Isaac Asimov,N,54,9,Asimov,Science Fiction
 No Logo,Naomi Klein,N,55,7,Klein,General Fiction
 The Night Shift,Stephen King,N,56,15,King,General Fiction
 Notes on a Scandal,Zoë Heller,N,57,18,Heller,General Fiction
-The Nickel Boys,Colson Whitehead,N,58,15,Whitehead,General Fiction
+This Savage Song,V.E. Schwab,N,58,16,Schwab,General Fiction
 Night Train to Lisbon,Pascal Mercier,N,59,21,Mercier,General Fiction
-The Namesake,Jhumpa Lahiri,N,60,12,Lahiri,General Fiction
+The Invisible Life of Addie LaRue,V.E. Schwab,N,60,33,Schwab,Biography/History
 Not That Kind of Girl,Lena Dunham,N,61,21,Dunham,General Fiction
 The Night Strangers,Chris Bohjalian,N,62,19,Bohjalian,General Fiction
 The New Rules of Marriage,Terrence Real,N,63,25,Real,General Fiction
 Nothing to Envy,Barbara Demick,N,64,15,Demick,General Fiction
 The Nightingale,Kristin Hannah,N,65,15,Hannah,General Fiction
-Nine Perfect Strangers,Liane Moriarty,N,66,22,Moriarty,General Fiction
+Journey Through Japan,Travel Press,N,66,21,Press,General Fiction
 The Nest,Cynthia D'Aprix Sweeney,N,67,8,Sweeney,General Fiction
 Nobody's Baby But Mine,Susan Elizabeth Phillips,N,68,22,Phillips,General Fiction
 Now Is the Time to Open Your Heart,Alice Walker,N,69,34,Walker,Romance
 The Night Portrait,Laura Morelli,N,70,18,Morelli,General Fiction
 No Time to Spare,Ursula K. Le Guin,N,71,16,Guin,General Fiction
 The Noise of Time,Julian Barnes,N,72,17,Barnes,General Fiction
-Netherland,Joseph O'Neill,N,73,10,O'Neill,General Fiction
 The Night Before Christmas,Clement Clarke Moore,N,74,26,Moore,Science Fiction
+Understanding Penicillin,Scientific Publications,N,75,24,Publications,General Fiction
 Never Cry Wolf,Farley Mowat,N,75,14,Mowat,General Fiction
 The Night Villa,Carol Goodman,N,76,15,Goodman,General Fiction
 Nicholson Baker,The Mezzanine,N,77,15,Mezzanine,General Fiction
@@ -1458,7 +1458,7 @@ The Optimists,Andrew Miller,O,56,13,Miller,General Fiction
 "Other Voices, Other Rooms",Truman Capote,O,57,25,Capote,General Fiction
 The Old Devils,Kingsley Amis,O,58,14,Amis,General Fiction
 One More Thing,B.J. Novak,O,59,14,Novak,General Fiction
-The Once and Future King,T.H. White,O,60,24,White,Science Fiction
+The Near Witch,V.E. Schwab,O,60,14,Schwab,General Fiction
 Oklahoma!,Various,O,61,9,Various,General Fiction
 The Other Einstein,Marie Benedict,O,62,18,Benedict,General Fiction
 Our Kind of Traitor,John le Carré,O,63,19,Carré,General Fiction
@@ -1473,7 +1473,7 @@ Of Love and Other Demons,Gabriel García Márquez,O,71,24,Márquez,Romance
 Only Revolutions,Mark Z. Danielewski,O,72,16,Danielewski,General Fiction
 The Ocean of Churn,Sanjeev Sanyal,O,73,18,Sanyal,General Fiction
 On the Road Again,Willie Nelson,O,74,17,Nelson,General Fiction
-The Other Woman,Therese Bohman,O,75,15,Bohman,General Fiction
+Vicious,V.E. Schwab,O,75,7,Schwab,General Fiction
 Olive Kitteridge,Elizabeth Strout,O,76,16,Strout,General Fiction
 One Shot,Lee Child,O,77,8,Child,General Fiction
 The Optimist,Helen Simonson,O,78,12,Simonson,General Fiction
@@ -1497,7 +1497,7 @@ One Thousand White Women,Jim Fergus,O,95,24,Fergus,General Fiction
 The Oracle of Stamboul,Michael David Lukas,O,96,22,Lukas,General Fiction
 On Immunity,Eula Biss,O,97,11,Biss,General Fiction
 Our America,LeAlan Jones,O,98,11,Jones,General Fiction
-The Optimist,Helen Simonson,O,99,12,Simonson,General Fiction
+Vengeful,V.E. Schwab,O,99,8,Schwab,General Fiction
 Over and Under the Snow,Kate Messner,O,100,23,Messner,General Fiction
 Pride and Prejudice,Jane Austen,P,1,19,Austen,General Fiction
 The Picture of Dorian Gray,Oscar Wilde,P,2,26,Wilde,General Fiction
@@ -1518,7 +1518,7 @@ The Plague,Albert Camus,P,16,10,Camus,General Fiction
 Peace Like a River,Leif Enger,P,17,18,Enger,General Fiction
 Precious,Sapphire,P,18,8,Sapphire,General Fiction
 The Polar Express,Chris Van Allsburg,P,19,17,Allsburg,General Fiction
-The Power,Naomi Alderman,P,20,9,Alderman,General Fiction
+Contemporary Quantum Physics,Scholarly Works,P,20,28,Works,General Fiction
 Paper Towns,John Green,P,21,11,Green,General Fiction
 The Prestige,Christopher Priest,P,22,12,Priest,General Fiction
 Pinocchio,Carlo Collodi,P,23,9,Collodi,General Fiction
@@ -1538,11 +1538,11 @@ The Painted Girls,Cathy Marie Buchanan,P,36,17,Buchanan,General Fiction
 Possession,A.S. Byatt,P,37,10,Byatt,General Fiction
 The Piano Teacher,Elfriede Jelinek,P,38,17,Jelinek,General Fiction
 Push,Sapphire,P,39,4,Sapphire,General Fiction
-The Poisonwood Bible,Barbara Kingsolver,P,40,20,Kingsolver,General Fiction
+The Starless Sea,Erin Morgenstern,P,40,16,Morgenstern,General Fiction
 Phantom Tollbooth,Norton Juster,P,41,17,Juster,General Fiction
 The Pickwick Papers,Charles Dickens,P,42,19,Dickens,General Fiction
-Peyton Place,Grace Metalious,P,43,12,Metalious,General Fiction
 The Potato Factory,Bryce Courtenay,P,44,18,Courtenay,General Fiction
+The Power Broker,Robert Caro,P,45,16,Caro,General Fiction
 Plainsong,Kent Haruf,P,45,9,Haruf,General Fiction
 The Poisoner's Tale,Various,P,46,19,Various,General Fiction
 Primal Fear,William Diehl,P,47,11,Diehl,General Fiction
@@ -1558,8 +1558,8 @@ Parallel Lives,Phyllis Rose,P,56,14,Rose,General Fiction
 The Price of Salt,Patricia Highsmith,P,57,17,Highsmith,General Fiction
 The Physics of Sorrow,Georgi Gospodinov,P,58,21,Gospodinov,General Fiction
 Past Tense,Lee Child,P,59,10,Child,General Fiction
-A Prayer for Owen Meany,John Irving,P,60,23,Irving,General Fiction
-The Poisonwood Bible,Barbara Kingsolver,P,61,20,Kingsolver,General Fiction
+Project Hail Mary,Andy Weir,P,60,17,Weir,General Fiction
+The Bear and the Nightingale,Katherine Arden,P,61,28,Arden,General Fiction
 The Postman Always Rings Twice,James M. Cain,P,62,30,Cain,General Fiction
 Prayers for Bobby,Leroy Aarons,P,63,17,Aarons,General Fiction
 The Power and the Glory,Graham Greene,P,64,23,Greene,General Fiction
@@ -1574,7 +1574,7 @@ The Portable Veblen,Elizabeth McKenzie,P,72,19,McKenzie,General Fiction
 The Puttermesser Papers,Cynthia Ozick,P,73,23,Ozick,General Fiction
 Portnoy's Complaint,Philip Roth,P,74,19,Roth,General Fiction
 The Passion,Jeanette Winterson,P,75,11,Winterson,General Fiction
-Push,Sapphire,P,76,4,Sapphire,General Fiction
+The Winter of the Witch,Katherine Arden,P,76,23,Arden,General Fiction
 The Paper Palace,Miranda Cowley Heller,P,77,16,Heller,General Fiction
 The Potato Peel Pie Society,Mary Ann Shaffer,P,78,27,Shaffer,General Fiction
 The People in the Trees,Hanya Yanagihara,P,79,23,Yanagihara,General Fiction
@@ -1591,7 +1591,7 @@ The Psychology of Money,Morgan Housel,P,89,23,Housel,General Fiction
 The Postmistress,Sarah Blake,P,90,16,Blake,General Fiction
 Parable of the Talents,Octavia E. Butler,P,91,22,Butler,General Fiction
 The Pilgrim's Progress,John Bunyan,P,92,22,Bunyan,General Fiction
-The Poisoner's Tale,Margaret Frazer,P,93,19,Frazer,General Fiction
+The Gilded Ones,Namina Forna,P,93,15,Forna,General Fiction
 The Paris Architect,Charles Belfoure,P,94,19,Belfoure,General Fiction
 Playing with Fire,Tess Gerritsen,P,95,17,Gerritsen,General Fiction
 The Patchwork Girl of Oz,L. Frank Baum,P,96,24,Baum,General Fiction
@@ -1684,13 +1684,13 @@ Quick Brown Fox,Various,Q,82,15,Various,General Fiction
 The Quest for El Cid,Richard Fletcher,Q,83,20,Fletcher,General Fiction
 Queen of the Conquered,Kacen Callender,Q,84,22,Callender,General Fiction
 The Quantum Magician,Derek Künsken,Q,85,20,Künsken,Fantasy
-Quality Time,Various,Q,86,12,Various,General Fiction
+Before They Are Hanged,Joe Abercrombie,Q,86,22,Abercrombie,General Fiction
 The Queen of Everything,Deb Caletti,Q,87,23,Caletti,General Fiction
 Quicksand,Nella Larsen,Q,88,9,Larsen,General Fiction
-The Quest,Various Authors,Q,89,9,Authors,General Fiction
+The Blade Itself,Joe Abercrombie,Q,89,16,Abercrombie,General Fiction
 Queen Elizabeth II,Various,Q,90,18,Various,General Fiction
 The Quantum Enigma,Bruce Rosenblum,Q,91,18,Rosenblum,General Fiction
-Quality Street,J.M. Barrie,Q,92,14,Barrie,General Fiction
+The Rage of Dragons,Evan Winter,Q,92,19,Winter,Fantasy
 The Queen's Secret,Jean Plaidy,Q,93,18,Plaidy,General Fiction
 Quest for Lost Heroes,David Gemmell,Q,94,21,Gemmell,General Fiction
 The Quantum World,John Polkinghorne,Q,95,17,Polkinghorne,General Fiction
@@ -1821,8 +1821,8 @@ Snow Falling on Cedars,David Guterson,S,19,22,Guterson,General Fiction
 The Secret Life of Bees,Sue Monk Kidd,S,20,23,Kidd,Biography/History
 The Shadow of the Wind,Carlos Ruiz Zafón,S,21,22,Zafón,General Fiction
 Sister Carrie,Theodore Dreiser,S,22,13,Dreiser,General Fiction
-The Satanic Verses,Salman Rushdie,S,23,18,Rushdie,General Fiction
 Swann's Way,Marcel Proust,S,24,11,Proust,General Fiction
+The School for Good Mothers,Jessamine Chan,S,25,27,Chan,General Fiction
 The Stone Angel,Margaret Laurence,S,25,15,Laurence,General Fiction
 Something Wicked This Way Comes,Ray Bradbury,S,26,31,Bradbury,Science Fiction
 The Sparrow,Mary Doria Russell,S,27,11,Russell,General Fiction
@@ -1850,7 +1850,7 @@ The Snow Child,Eowyn Ivey,S,48,14,Ivey,General Fiction
 The Shape of Water,Guillermo del Toro,S,49,18,Toro,General Fiction
 The Silo Series,Hugh Howey,S,50,15,Howey,General Fiction
 Still Alice,Lisa Genova,S,51,11,Genova,General Fiction
-The Secret History,Donna Tartt,S,52,18,Tartt,Biography/History
+The Tipping Point,Malcolm Gladwell,S,52,17,Gladwell,General Fiction
 She's Come Undone,Wally Lamb,S,53,17,Lamb,General Fiction
 The Sisterhood of the Traveling Pants,Ann Brashares,S,54,37,Brashares,General Fiction
 Sophie's World,Jostein Gaarder,S,55,14,Gaarder,General Fiction
@@ -1890,7 +1890,7 @@ Sweeney Todd,Various,S,88,12,Various,General Fiction
 The Sign of Four,Arthur Conan Doyle,S,89,16,Doyle,Mystery/Crime
 State of Wonder,Ann Patchett,S,90,15,Patchett,General Fiction
 The Space Merchants,Frederik Pohl,S,91,19,Pohl,Science Fiction
-Sophie's Choice,William Styron,S,92,15,Styron,General Fiction
+Half a King,Joe Abercrombie,S,92,11,Abercrombie,General Fiction
 The Serial Garden,Joan Aiken,S,93,17,Aiken,General Fiction
 Summer Book of Short Stories,Various,S,94,28,Various,General Fiction
 The Snow Queen,Hans Christian Andersen,S,95,14,Andersen,General Fiction
@@ -1899,20 +1899,20 @@ The Story of My Life,Helen Keller,S,97,20,Keller,General Fiction
 Sacred Games,Vikram Chandra,S,98,12,Chandra,General Fiction
 The Suspicious River,Laura Kasischke,S,99,20,Kasischke,General Fiction
 Suttree,Cormac McCarthy,S,100,7,McCarthy,General Fiction
-To Kill a Mockingbird,Harper Lee,T,1,21,Lee,General Fiction
-The Great Gatsby,F. Scott Fitzgerald,T,2,16,Fitzgerald,General Fiction
-The Catcher in the Rye,J.D. Salinger,T,3,22,Salinger,General Fiction
+The Heroes,Joe Abercrombie,T,1,10,Abercrombie,General Fiction
+The Discovery of Penicillin,Science Press,T,2,27,Press,General Fiction
+The Ten Thousand Doors of January,Alix E. Harrow,T,3,33,Harrow,General Fiction
 The Lord of the Rings,J.R.R. Tolkien,T,4,21,Tolkien,Fantasy
 Twilight,Stephenie Meyer,T,5,8,Meyer,General Fiction
-The Hunger Games,Suzanne Collins,T,6,16,Collins,General Fiction
-The Fault in Our Stars,John Green,T,7,22,Green,General Fiction
-The Handmaid's Tale,Margaret Atwood,T,8,19,Atwood,General Fiction
+Man's Search for Meaning,Viktor E. Frankl,T,6,24,Frankl,General Fiction
+There There,Tommy Orange,T,7,11,Orange,General Fiction
+The Testaments,Margaret Atwood,T,8,14,Atwood,General Fiction
 Things Fall Apart,Chinua Achebe,T,9,17,Achebe,General Fiction
-The Kite Runner,Khaled Hosseini,T,10,15,Hosseini,General Fiction
-The Chronicles of Narnia,C.S. Lewis,T,11,24,Lewis,Fantasy
+Sharp Objects,Gillian Flynn,T,10,13,Flynn,General Fiction
+The Priory of the Orange Tree,Samantha Shannon,T,11,29,Shannon,General Fiction
 The Time Machine,H.G. Wells,T,12,16,Wells,General Fiction
-The Adventures of Tom Sawyer,Mark Twain,T,13,28,Twain,General Fiction
-The Picture of Dorian Gray,Oscar Wilde,T,14,26,Wilde,General Fiction
+The Four Winds,Kristin Hannah,T,13,14,Hannah,General Fiction
+The Binding,Bridget Collins,T,14,11,Collins,General Fiction
 Treasure Island,Robert Louis Stevenson,T,15,15,Stevenson,General Fiction
 The War of the Worlds,H.G. Wells,T,16,21,Wells,War/Military
 The Turn of the Screw,Henry James,T,17,21,James,General Fiction
@@ -1922,50 +1922,50 @@ The Three Musketeers,Alexandre Dumas,T,20,20,Dumas,General Fiction
 Through the Looking Glass,Lewis Carroll,T,21,25,Carroll,Fantasy
 The Tale of Two Cities,Charles Dickens,T,22,22,Dickens,General Fiction
 The Time Traveler's Wife,Audrey Niffenegger,T,23,24,Niffenegger,General Fiction
-The Help,Kathryn Stockett,T,24,8,Stockett,General Fiction
-The Lovely Bones,Alice Sebold,T,25,16,Sebold,Romance
-The Book Thief,Markus Zusak,T,26,14,Zusak,General Fiction
+Later,Stephen King,T,24,5,King,General Fiction
+The Culture of Japan,Anthropological Studies,T,25,20,Studies,General Fiction
+Foundations of Quantum Physics,Educational Press,T,26,30,Press,General Fiction
 The Life of Pi,Yann Martel,T,27,14,Martel,Biography/History
-The Girl with the Dragon Tattoo,Stieg Larsson,T,28,31,Larsson,Fantasy
-The Da Vinci Code,Dan Brown,T,29,17,Brown,General Fiction
-The Alchemist,Paulo Coelho,T,30,13,Coelho,General Fiction
-The Road,Cormac McCarthy,T,31,8,McCarthy,General Fiction
-The Hitchhiker's Guide to the Galaxy,Douglas Adams,T,32,36,Adams,General Fiction
-The Curious Incident of the Dog in the Night-Time,Mark Haddon,T,33,49,Haddon,General Fiction
-The Secret Life of Bees,Sue Monk Kidd,T,34,23,Kidd,Biography/History
-The Joy Luck Club,Amy Tan,T,35,17,Tan,General Fiction
-The Color Purple,Alice Walker,T,36,16,Walker,General Fiction
-The Grapes of Wrath,John Steinbeck,T,37,19,Steinbeck,General Fiction
+The Vanishing Half,Brit Bennett,T,28,18,Bennett,General Fiction
+The Song of Solomon,Toni Morrison,T,29,19,Morrison,General Fiction
+The Impact of Penicillin,Research Studies,T,30,24,Studies,General Fiction
+Last Argument of Kings,Joe Abercrombie,T,31,22,Abercrombie,General Fiction
+Billy Summers,Stephen King,T,32,13,King,General Fiction
+Song of Achilles,Madeline Miller,T,33,16,Miller,General Fiction
+Half the World,Joe Abercrombie,T,34,14,Abercrombie,General Fiction
+Big Little Lies,Liane Moriarty,T,35,15,Moriarty,Children
+A Hero of Our Time,Mikhail Lermontov,T,36,18,Lermontov,General Fiction
+Conversations with Friends,Sally Rooney,T,37,26,Rooney,General Fiction
 The Things They Carried,Tim O'Brien,T,38,23,O'Brien,General Fiction
-The Bell Jar,Sylvia Plath,T,39,12,Plath,General Fiction
-The Glass Castle,Jeannette Walls,T,40,16,Walls,General Fiction
-The Poisonwood Bible,Barbara Kingsolver,T,41,20,Kingsolver,General Fiction
+The Silent Patient,Alex Michaelides,T,39,18,Michaelides,General Fiction
+Such a Fun Age,Kiley Reid,T,40,14,Reid,General Fiction
+The Girl and the Mountain,Katherine Arden,T,41,25,Arden,General Fiction
 The Known World,Edward P. Jones,T,42,15,Jones,General Fiction
-The Amazing Adventures of Kavalier & Clay,Michael Chabon,T,43,41,Chabon,General Fiction
-The Corrections,Jonathan Franzen,T,44,15,Franzen,General Fiction
-The Namesake,Jhumpa Lahiri,T,45,12,Lahiri,General Fiction
+Predictably Irrational,Dan Ariely,T,43,22,Ariely,General Fiction
+The Poppy War,R.F. Kuang,T,44,13,Kuang,War/Military
+A Darker Shade of Magic,V.E. Schwab,T,45,23,Schwab,Fantasy
 The Yacoubian Building,Alaa Al Aswany,T,46,22,Aswany,General Fiction
-The Blind Assassin,Margaret Atwood,T,47,18,Atwood,General Fiction
-The God of Small Things,Arundhati Roy,T,48,23,Roy,General Fiction
-The Remains of the Day,Kazuo Ishiguro,T,49,22,Ishiguro,General Fiction
-The English Patient,Michael Ondaatje,T,50,19,Ondaatje,General Fiction
+Beach Read,Emily Henry,T,47,10,Henry,General Fiction
+Red at the Bone,Jacqueline Woodson,T,48,15,Woodson,General Fiction
+Best Served Cold,Joe Abercrombie,T,49,16,Abercrombie,General Fiction
+Children of Blood and Bone,Tomi Adeyemi,T,50,26,Adeyemi,Children
 The Unbearable Lightness of Being,Milan Kundera,T,51,33,Kundera,General Fiction
-The House of the Spirits,Isabel Allende,T,52,24,Allende,General Fiction
+The Thursday Murder Club,Richard Osman,T,52,24,Osman,Mystery/Crime
 The Tin Drum,Günter Grass,T,53,12,Grass,General Fiction
-The Master and Margarita,Mikhail Bulgakov,T,54,24,Bulgakov,General Fiction
-The Name of the Rose,Umberto Eco,T,55,20,Eco,General Fiction
-The Stranger,Albert Camus,T,56,12,Camus,General Fiction
+Fathers and Sons,Ivan Turgenev,T,54,16,Turgenev,General Fiction
+Ancient Japan,Historical Exploration,T,55,13,Exploration,General Fiction
+Red Country,Joe Abercrombie,T,56,11,Abercrombie,General Fiction
 The Trial,Franz Kafka,T,57,9,Kafka,General Fiction
-The Metamorphosis,Franz Kafka,T,58,17,Kafka,General Fiction
-The Death of Ivan Ilyich,Leo Tolstoy,T,59,24,Tolstoy,General Fiction
-The Brothers Karamazov,Fyodor Dostoevsky,T,60,22,Dostoevsky,General Fiction
-The Idiot,Fyodor Dostoevsky,T,61,9,Dostoevsky,General Fiction
+Faithful Place,Tana French,T,58,14,French,General Fiction
+Eugene Onegin,Alexander Pushkin,T,59,13,Pushkin,General Fiction
+Mexican Gothic,Silvia Moreno-Garcia,T,60,14,Moreno-Garcia,General Fiction
+Modern Japan,Contemporary Analysis,T,61,12,Analysis,General Fiction
 The Possessed,Fyodor Dostoevsky,T,62,13,Dostoevsky,General Fiction
-The Cherry Orchard,Anton Chekhov,T,63,18,Chekhov,General Fiction
+The City We Became,N.K. Jemisin,T,63,18,Jemisin,General Fiction
 The Seagull,Anton Chekhov,T,64,11,Chekhov,General Fiction
 Three Sisters,Anton Chekhov,T,65,13,Chekhov,General Fiction
-The Importance of Being Earnest,Oscar Wilde,T,66,31,Wilde,General Fiction
-The Duchess of Malfi,John Webster,T,67,20,Webster,General Fiction
+Death on the Nile,Agatha Christie,T,66,17,Christie,Mystery/Crime
+Advanced Quantum Physics,Academic Publications,T,67,24,Publications,General Fiction
 Tis Pity She's a Whore,John Ford,T,68,22,Ford,General Fiction
 The Spanish Tragedy,Thomas Kyd,T,69,19,Kyd,General Fiction
 The Revenger's Tragedy,Thomas Middleton,T,70,22,Middleton,General Fiction
@@ -2001,7 +2001,7 @@ The Laws of Candy,John Fletcher,T,99,17,Fletcher,General Fiction
 The Lover's Progress,John Fletcher,T,100,20,Fletcher,Romance
 Ulysses,James Joyce,U,1,7,Joyce,General Fiction
 Uncle Tom's Cabin,Harriet Beecher Stowe,U,2,17,Stowe,General Fiction
-The Unbearable Lightness of Being,Milan Kundera,U,3,33,Kundera,General Fiction
+A Little Hatred,Joe Abercrombie,U,3,15,Abercrombie,Children
 Under the Volcano,Malcolm Lowry,U,4,17,Lowry,General Fiction
 The Upanishads,Various,U,5,14,Various,General Fiction
 USA,John Dos Passos,U,6,3,Passos,General Fiction
@@ -2016,7 +2016,7 @@ The Usual Suspects,Christopher McQuarrie,U,14,18,McQuarrie,General Fiction
 Under the Dome,Stephen King,U,15,14,King,General Fiction
 The Unconsoled,Kazuo Ishiguro,U,16,14,Ishiguro,General Fiction
 Unbroken,Laura Hillenbrand,U,17,8,Hillenbrand,General Fiction
-The Underground Railroad,Colson Whitehead,U,18,24,Whitehead,General Fiction
+The Lean Startup,Eric Ries,U,18,16,Ries,General Fiction
 Ulysses S. Grant,Ron Chernow,U,19,16,Chernow,General Fiction
 The Umbrella Academy,Gerard Way,U,20,20,Way,General Fiction
 Underworld,Don DeLillo,U,21,10,DeLillo,General Fiction
@@ -2087,7 +2087,7 @@ Under the Poppy,Kathe Koja,U,85,15,Koja,General Fiction
 The Unit,Ninni Holmqvist,U,86,8,Holmqvist,General Fiction
 Unwholly,Neal Shusterman,U,87,8,Shusterman,General Fiction
 The Unbecoming of Mara Dyer,Michelle Hodkin,U,88,27,Hodkin,General Fiction
-Understanding Comics,Scott McCloud,U,89,20,McCloud,General Fiction
+The Wisdom of Crowds,Joe Abercrombie,U,89,20,Abercrombie,General Fiction
 Uncle Tungsten,Oliver Sacks,U,90,14,Sacks,General Fiction
 The Unlikely Disciple,Kevin Roose,U,91,21,Roose,General Fiction
 Until They Bring the Streetcars Back,Stanley Gordon West,U,92,36,West,General Fiction
@@ -2125,11 +2125,11 @@ The Vorrh,B. Catling,V,23,9,Catling,General Fiction
 The Vagrants,Yiyun Li,V,24,12,Li,General Fiction
 Very Good Lives,J.K. Rowling,V,25,15,Rowling,General Fiction
 The Vegetarian,Han Kang,V,26,14,Kang,General Fiction
-Vicious,V.E. Schwab,V,27,7,Schwab,General Fiction
+David and Goliath,Malcolm Gladwell,V,27,17,Gladwell,General Fiction
 The Viper's Nest,Peter Lerangis,V,28,16,Lerangis,General Fiction
 Violet & Daisy,Geoffrey Fletcher,V,29,14,Fletcher,General Fiction
 The Vintage Book of Contemporary American Short Stories,Tobias Wolff,V,30,55,Wolff,General Fiction
-A Visit from the Goon Squad,Jennifer Egan,V,31,27,Egan,General Fiction
+The Sanatorium,Sarah Pearse,V,31,14,Pearse,General Fiction
 The Velveteen Rabbit,Margery Williams,V,32,20,Williams,General Fiction
 Vineland,Thomas Pynchon,V,33,8,Pynchon,General Fiction
 The Virgin Suicides,Jeffrey Eugenides,V,34,19,Eugenides,General Fiction
@@ -2180,10 +2180,10 @@ The Valley of Fear,Arthur Conan Doyle,V,78,18,Doyle,Mystery/Crime
 Vampire Knight,Matsuri Hino,V,79,14,Hino,General Fiction
 Voices,Arnaldur Indridason,V,80,6,Indridason,General Fiction
 The Van,Roddy Doyle,V,81,7,Doyle,Mystery/Crime
-Vanished,Danielle Steel,V,82,8,Steel,General Fiction
+The Lies of Locke Lamora,Scott Lynch,V,82,24,Lynch,General Fiction
 Victoria,Daisy Goodwin,V,83,8,Goodwin,General Fiction
 The Visible Man,Chuck Klosterman,V,84,15,Klosterman,General Fiction
-Vampire Academy,Richelle Mead,V,85,15,Mead,General Fiction
+Red Seas Under Red Skies,Scott Lynch,V,85,24,Lynch,General Fiction
 Vermont,Jan Morris,V,86,7,Morris,General Fiction
 Valley of Silence,Nora Roberts,V,87,17,Roberts,General Fiction
 The Villa,Nora Roberts,V,88,9,Roberts,General Fiction
@@ -2205,14 +2205,14 @@ The Way of All Flesh,Samuel Butler,W,3,20,Butler,General Fiction
 The Waste Land,T.S. Eliot,W,4,14,Eliot,General Fiction
 Where the Crawdads Sing,Delia Owens,W,5,23,Owens,General Fiction
 Wonder,R.J. Palacio,W,6,6,Palacio,General Fiction
-The Water Dancer,Ta-Nehisi Coates,W,7,16,Coates,General Fiction
+The Legacy of Napoleon Bonaparte,Biography Institute,W,7,32,Institute,General Fiction
 White Teeth,Zadie Smith,W,8,11,Smith,General Fiction
 The Wonderful Wizard of Oz,L. Frank Baum,W,9,26,Baum,Fantasy
 Watership Down,Richard Adams,W,10,14,Adams,General Fiction
 The Wind in the Willows,Kenneth Grahame,W,11,23,Grahame,General Fiction
 Where the Red Fern Grows,Wilson Rawls,W,12,24,Rawls,General Fiction
-The Witch of Blackbird Pond,Elizabeth George Speare,W,13,27,Speare,General Fiction
 Walk Two Moons,Sharon Creech,W,14,14,Creech,General Fiction
+The World According to Garp,John Irving,W,15,27,Irving,General Fiction
 The Westing Game,Ellen Raskin,W,15,16,Raskin,General Fiction
 "Where Are You Going, Where Have You Been?",Joyce Carol Oates,W,16,41,Oates,General Fiction
 The Waves,Virginia Woolf,W,17,9,Woolf,General Fiction
@@ -2223,7 +2223,7 @@ The Wizard of Earthsea,Ursula K. Le Guin,W,21,22,Guin,Fantasy
 Wide Sargasso Sea,Jean Rhys,W,22,17,Rhys,General Fiction
 What's Eating Gilbert Grape,Peter Hedges,W,23,27,Hedges,General Fiction
 The Woman in White,Wilkie Collins,W,24,18,Collins,General Fiction
-The World According to Garp,John Irving,W,25,27,Irving,General Fiction
+Modern Applications of Penicillin,Technology Review,W,25,33,Review,General Fiction
 We Need to Talk About Kevin,Lionel Shriver,W,26,27,Shriver,General Fiction
 The Windup Girl,Paolo Bacigalupi,W,27,15,Bacigalupi,General Fiction
 White Noise,Don DeLillo,W,28,11,DeLillo,General Fiction
@@ -2246,7 +2246,7 @@ Wild,Cheryl Strayed,W,44,4,Strayed,General Fiction
 Winnie-the-Pooh,A.A. Milne,W,45,15,Milne,General Fiction
 The Winter's Tale,William Shakespeare,W,46,17,Shakespeare,General Fiction
 Welcome to the Monkey House,Kurt Vonnegut,W,47,27,Vonnegut,General Fiction
-The War of the Worlds,H.G. Wells,W,48,21,Wells,War/Military
+Half a War,Joe Abercrombie,W,48,10,Abercrombie,War/Military
 When I Was Puerto Rican,Esmeralda Santiago,W,49,23,Santiago,General Fiction
 Women,Charles Bukowski,W,50,5,Bukowski,General Fiction
 The White Boy Shuffle,Paul Beatty,W,51,21,Beatty,General Fiction
@@ -2296,7 +2296,7 @@ The Word for World Is Forest,Ursula K. Le Guin,W,94,28,Guin,General Fiction
 Woe Is I,Patricia T. O'Conner,W,95,8,O'Conner,General Fiction
 The Water Will Come,Jeff Goodell,W,96,19,Goodell,General Fiction
 When Prophecy Fails,Leon Festinger,W,97,19,Festinger,General Fiction
-White Teeth,Zadie Smith,W,98,11,Smith,General Fiction
+The Republic of Thieves,Scott Lynch,W,98,23,Lynch,General Fiction
 We Wish to Inform You That Tomorrow We Will Be Killed with Our Families,Philip Gourevitch,W,99,71,Gourevitch,General Fiction
 Why Nations Fail,Daron Acemoglu,W,100,16,Acemoglu,General Fiction
 X-Men,Various Authors,X,1,5,Authors,General Fiction
@@ -2406,7 +2406,7 @@ Young Goodman Brown,Nathaniel Hawthorne,Y,4,19,Hawthorne,General Fiction
 The Year of Magical Thinking,Joan Didion,Y,5,28,Didion,Fantasy
 Yann Martel,Life of Pi,Y,6,11,Pi,General Fiction
 Yes Please,Amy Poehler,Y,7,10,Poehler,General Fiction
-The Yacoubian Building,Alaa Al Aswany,Y,8,22,Aswany,General Fiction
+The Trouble with Peace,Joe Abercrombie,Y,8,22,Abercrombie,General Fiction
 You Are a Badass,Jen Sincero,Y,9,16,Sincero,General Fiction
 The Yellow Birds,Kevin Powers,Y,10,16,Powers,General Fiction
 The Years,Virginia Woolf,Y,11,9,Woolf,General Fiction
@@ -2474,10 +2474,10 @@ You Only Die Twice,Edna Buchanan,Y,72,18,Buchanan,General Fiction
 The Year of the Monkey,Patti Smith,Y,73,22,Smith,General Fiction
 You're Never Weird on the Internet,Felicia Day,Y,74,34,Day,General Fiction
 The Yellow-Lighted Bookshop,Lewis Buzbee,Y,75,27,Buzbee,Fantasy
-You Can't Go Home Again,Thomas Wolfe,Y,76,23,Wolfe,General Fiction
+The Thorn of Emberlain,Scott Lynch,Y,76,22,Lynch,General Fiction
 The Year of Reading Dangerously,Andy Miller,Y,77,31,Miller,General Fiction
 You'll Never Believe What Happened,Joel McHale,Y,78,34,McHale,General Fiction
-The Young Hemingway,Michael Reynolds,Y,79,19,Reynolds,General Fiction
+The Way of Kings,Brandon Sanderson,Y,79,16,Sanderson,General Fiction
 Yoga and the Bible,Susan Bordenkircher,Y,80,18,Bordenkircher,General Fiction
 The Year of Pleasures,Elizabeth Berg,Y,81,21,Berg,General Fiction
 You Are My Only,Beth Kephart,Y,82,15,Kephart,General Fiction
@@ -2489,7 +2489,7 @@ The Young and the Digital,S. Craig Watkins,Y,87,25,Watkins,General Fiction
 Young Money,Kevin Roose,Y,88,11,Roose,General Fiction
 The Year of the Rat,Grace Lin,Y,89,19,Lin,General Fiction
 You Know Me Well,Nina LaCour,Y,90,16,LaCour,General Fiction
-The Young Hemingway,Michael Reynolds,Y,91,19,Reynolds,General Fiction
+Words of Radiance,Brandon Sanderson,Y,91,17,Sanderson,General Fiction
 Yoga Nidra,Swami Satyananda Saraswati,Y,92,10,Saraswati,General Fiction
 The Year of the Tiger,Alison Lloyd,Y,93,21,Lloyd,General Fiction
 You'll Grow Out of It,Jessi Klein,Y,94,21,Klein,General Fiction
@@ -2523,7 +2523,7 @@ Zora Neale Hurston,Various,Z,20,18,Various,General Fiction
 The Zimmermann Telegram,Barbara Tuchman,Z,22,23,Tuchman,General Fiction
 Zone One,Colson Whitehead,Z,23,8,Whitehead,General Fiction
 The Zap Gun,Philip K. Dick,Z,24,11,Dick,General Fiction
-Zuleika Dobson,Max Beerbohm,Z,25,14,Beerbohm,General Fiction
+Oathbringer,Brandon Sanderson,Z,25,11,Sanderson,General Fiction
 The Zen Teaching of Huang Po,John Blofeld,Z,26,28,Blofeld,General Fiction
 Zero History,William Gibson,Z,27,12,Gibson,Biography/History
 The Zen of Steve Jobs,Caleb Melby,Z,28,21,Melby,General Fiction
@@ -2538,7 +2538,7 @@ The Zenana,Various,Z,36,10,Various,General Fiction
 Zero Degrees of Empathy,Simon Baron-Cohen,Z,37,23,Baron-Cohen,General Fiction
 The Zeppelin's Passenger,E. Phillips Oppenheim,Z,38,24,Oppenheim,General Fiction
 "Zen Flesh, Zen Bones",Paul Reps,Z,39,20,Reps,General Fiction
-The Zone,Joe Abercrombie,Z,40,8,Abercrombie,General Fiction
+The Final Empire,Brandon Sanderson,Z,40,16,Sanderson,General Fiction
 Zero Point,Neal Asher,Z,41,10,Asher,General Fiction
 The Zookeeper's Daughter,Various,Z,42,24,Various,General Fiction
 Zen and the Brain,James H. Austin,Z,43,17,Austin,General Fiction
@@ -2558,7 +2558,7 @@ The Zone System,Ansel Adams,Z,56,15,Adams,General Fiction
 Zero Day,David Baldacci,Z,57,8,Baldacci,General Fiction
 The Zookeeper's Boy,Various,Z,58,19,Various,General Fiction
 Zen and the Art of Happiness,Chris Prentiss,Z,59,28,Prentiss,General Fiction
-The Zone of Silence,Various,Z,60,19,Various,General Fiction
+The Well of Ascension,Brandon Sanderson,Z,60,21,Sanderson,General Fiction
 Zero G,Dan Wells,Z,61,6,Wells,General Fiction
 The Zuckerman Bound,Philip Roth,Z,62,19,Roth,General Fiction
 Zen Pencils,Gavin Aung Than,Z,63,11,Than,General Fiction
@@ -2566,7 +2566,7 @@ The Zone Between,Larry Burkett,Z,64,16,Burkett,General Fiction
 Zero at the Bone,Jane Seville,Z,65,16,Seville,General Fiction
 The Zeus Command,Hugh Walters,Z,66,16,Walters,General Fiction
 Zen and the Art of Falling in Love,Brenda Shoshanna,Z,67,34,Shoshanna,Romance
-The Zone of Silence,Various,Z,68,19,Various,General Fiction
+The Hero of Ages,Brandon Sanderson,Z,68,16,Sanderson,General Fiction
 Zero Sum,B.V. Larson,Z,69,8,Larson,General Fiction
 The Zelig Factor,Various,Z,70,16,Various,General Fiction
 Zen Master Tales,Various,Z,71,16,Various,General Fiction
@@ -2590,12 +2590,12 @@ The Zone Theory,Various,Z,88,15,Various,General Fiction
 Zero Visibility,Sharon Dunn,Z,89,15,Dunn,General Fiction
 The Zeitgeist Movement,Peter Joseph,Z,90,22,Joseph,General Fiction
 Zen and the Art of Stand-Up Comedy,Jay Sankey,Z,91,34,Sankey,General Fiction
-The Zone of Silence,Ernesto Mallo,Z,92,19,Mallo,General Fiction
+The Alloy of Law,Brandon Sanderson,Z,92,16,Sanderson,General Fiction
 Zero to Infinity,Reid Hoffman,Z,93,16,Hoffman,General Fiction
 The Zen of Cooking,Edward Espe Brown,Z,94,18,Brown,General Fiction
 Zone Therapy,Various,Z,95,12,Various,General Fiction
 The Zulu War,Various,Z,96,12,Various,War/Military
 Zen and the Art of Archery,Eugen Herrigel,Z,97,26,Herrigel,General Fiction
-The Zone of Interest,Martin Amis,Z,98,20,Amis,General Fiction
+Rhythm of War,Brandon Sanderson,Z,98,13,Sanderson,War/Military
 Zero Limits,Joe Vitale,Z,99,11,Vitale,General Fiction
 The Zen of Python,Tim Peters,Z,100,17,Peters,General Fiction
