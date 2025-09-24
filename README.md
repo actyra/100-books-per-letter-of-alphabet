@@ -42,21 +42,70 @@ Each letter includes:
 - **Educational Resource**: Comprehensive reference for students and teachers
 - **Gift Ideas**: Find books for any reader's taste
 - **Personal Challenge**: Read through the alphabet systematically
+- **Data Analysis**: CSV export enables statistical analysis and visualization
+- **Database Integration**: Structured data ready for import into research platforms
 
 ### ⚡ **Quick Stats**
 - **Creation Time**: Under 45 minutes
-- **Authors Represented**: 1,500+ unique voices
+- **Authors Represented**: 1,674 unique voices
 - **Genres Covered**: 15+ categories
 - **Time Periods**: Ancient classics to 2024 releases
 - **Languages**: Originally written in dozens of languages (titles in English)
 
+## Technical Specifications
+
+### Raw Data Files
+- **Format**: Markdown (.md) for universal compatibility
+- **Encoding**: UTF-8 for international character support
+- **Structure**: Alphabetical organization (26 files, A-Z)
+- **Consistency**: Exactly 100 books per letter
+- **Total File Size**: ~100KB across 26 files
+- **Book Count**: 2,600 total entries
+
+### CSV Export Tool
+- **Language**: Python 3.7+
+- **Dependencies**: pandas (for data processing)
+- **Output Format**: UTF-8 encoded CSV files
+- **Processing Capability**: 2,600 entries → 2,507 unique titles
+- **Duplicate Detection**: 93 duplicate titles identified and tracked
+- **Export Size**: ~500KB total for both CSV files
+- **Analysis Features**: Genre estimation, author statistics, title length analysis
+
 ## How to Use
 
+### Direct File Access
 1. **Browse by Interest**: Pick a letter and scan for genres you enjoy
 2. **Random Discovery**: Open any file and point to a random number 1-100
 3. **Systematic Reading**: Work through A-Z for a comprehensive literary journey
 4. **Research Tool**: Use Ctrl+F to search for specific authors or titles
 5. **Book Club Planning**: Each file provides 100 options for group discussions
+
+### CSV Data Analysis
+For researchers, data scientists, and advanced analysis, use the included Python converter:
+
+```bash
+python book_data_converter.py
+```
+
+This generates two CSV files optimized for data analysis:
+- **`book_database.csv`** - All 2,600 books sorted alphabetically
+- **`book_database_by_authors.csv`** - All books sorted by author surname
+
+**CSV Columns:**
+- `title` - Book title
+- `author` - Author name
+- `letter` - Starting letter (A-Z)
+- `entry_number` - Position within letter (1-100)
+- `title_length` - Character count of title
+- `author_last_name` - Author surname for sorting
+- `genre_hints` - Estimated genre based on title/author patterns
+
+**Analysis Capabilities:**
+- **Author Statistics**: 1,674 unique authors, with duplicates identified
+- **Title Analysis**: 2,507 unique titles (93 duplicates across letters)
+- **Genre Classification**: Automatic genre estimation for filtering
+- **Length Analysis**: Title length statistics for readability studies
+- **Cross-Reference Tracking**: Same books appearing in multiple letters
 
 ## The Prompt That Made It Happen
 
